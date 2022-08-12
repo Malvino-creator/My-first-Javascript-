@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.head{
+    font-size: large;
+    font-weight: 900;
+    font-style: italic;
+
+}
+.btn{
+    background-color: antiquewhite;
+}
